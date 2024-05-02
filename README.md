@@ -1,0 +1,2 @@
+# beginer
+my first git
